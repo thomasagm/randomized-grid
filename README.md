@@ -1,2 +1,2 @@
 # randomized-grid
-Randomized Grid simulation created with graphics.py.
+This project is a scalable, grid-based simulation system built in Python that models agent distribution within a 2D environment. The system dynamically renders grids of any size and automatically scales visualization to fit the display window, enabling resolution-independent simulation and visualization. It is designed as a foundation for agent-based modeling, including future expansion into rule-based movement systems, satisfaction-based relocation models, and iterative simulation dynamics.
